@@ -1,6 +1,6 @@
-# Project title (institute-name-subject)
+# Project title (ippas-filip-opus22)
 
-#### Project logline (technique, organism, tissue type)
+#### Project logline (RNAseq, 19 samples from male rattus norveticus)
 Short description of treatment groups/subjects
 
 
